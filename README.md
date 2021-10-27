@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilDL
 - 👀 I’m interested in Python, JavaScript, ERP Systems
-- 🌱 I’m currently learning SvelteKit, Remix
+- 🌱 Always learning something
 - 🎓 Creating tutorials about Odoo and Python ERP on [Coding Dodo](https://codingdodo.com)
 
 <!---
