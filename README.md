@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PhilDL
-- 👀 I’m interested in Python, JavaScript, TypeScript and ERP Systems
-- 🌱 Always learning something
+- 👀 I’m interested in Python, TypeScript and Web dev and ERP Systems
 - 🎓 Creating tutorials about Odoo and Python ERP on [Coding Dodo](https://codingdodo.com)
 
 <!---
